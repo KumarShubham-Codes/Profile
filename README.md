@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KumarShubham-Codes
-- 👀 I’m interested in Development, Cloud(Azure).
-- 🌱 Microsoft Azure, GitHub Actions, Kubernetes
-- 💞
-- 📫 We can connect on twitter @1__Shubham10.
+- 👋 Hi, I am Shubham
+- 👀 A Cloud DevOps Engineer
+- 🌱 Skills: Kubernetes, terraform, Docker, Microsoft Azure, GitHub actions
+- 💞 :wink:
+- 📫 We can connect on linkedin https://www.linkedin.com/in/shubham77kumar/
 
 
 <!---
